@@ -1,6 +1,8 @@
-# StudentPerformanceAndAlcohol
+# Student Performance and Alcohol
 
 An analysis of Student’s performance dataset from the UCI ML Repository - required as part of Udacity Data Scientist Nanodegree.
+
+![alt text](titleimg.jpg)
 
 ## Table of Contents
 
