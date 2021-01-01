@@ -16,7 +16,7 @@ An analysis of Student’s performance dataset from the UCI ML Repository - requ
 
 ## Libraries and Installation
 Most of the code in this project will run with Python version 3.*. 
-The following libraries are used in the notebook: `numpy`, `pandas`, `matplotlib`, `sklearn`, and `seaborn`
+The following libraries are used in the notebook: `numpy`, `pandas`, `matplotlib`, `sklearn`, and `seaborn`.
 To install any library exectue 'pip install library_name' in terminal.
 
 
