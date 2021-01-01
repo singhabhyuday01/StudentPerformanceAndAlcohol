@@ -2,7 +2,8 @@
 
 An analysis of Student’s performance dataset from the UCI ML Repository - required as part of Udacity Data Scientist Nanodegree.
 
-![alt text](titleimg.jpg)
+![alt text](titleimg.jpg)<br>
+Image Source [Flickr](https://www.flickr.com/photos/evaxebra/13790965843)
 
 ## Table of Contents
 
