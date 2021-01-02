@@ -40,4 +40,4 @@ The results of this project can be found at the medium blog post [here](https://
 To summarize, there is a correlation between grades and alcohol consumption, and between parents’ education and a student’s grade. Additionally, those who drink on workdays usually drink more or the same on the weekends.
 
 ## Licensing and Acknowledgements
-The code in this project is not licensed and can be used freely as required. Acknowledgements to UCI ML Repository and Paulo Cortez, University of Minho, Portugal for making this dataset available.
+The code in this project is not licensed and can be used freely as required. Acknowledgements to UCI ML Repository and Paulo Cortez, University of Minho, Portugal for making this dataset available and to Udacity reviewers who provided feedback to make my project better.
