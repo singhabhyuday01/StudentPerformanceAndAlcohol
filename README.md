@@ -36,7 +36,7 @@ The files used in this project have been grouped as follows:
 2. `Student Performance and Alcohol.ipynb`: this file contains the code for analysis of the dataset.
 
 ## Results
-The results of this project can be found at the medium blog post [here].(https://abhyuday-singh.medium.com/students-performance-and-alcohol-faa797b8a551)<br>
+The results of this project can be found at the medium blog post [here](https://abhyuday-singh.medium.com/students-performance-and-alcohol-faa797b8a551).<br>
 To summarize, there is a correlation between grades and alcohol consumption, and between parents’ education and a student’s grade. Additionally, those who drink on workdays usually drink more or the same on the weekends.
 
 ## Licensing and Acknowledgements
